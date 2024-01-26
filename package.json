@@ -1,0 +1,19 @@
+{
+  "name": "expense-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanadh2/Expense-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanadh2/Expense-backend/issues"
+  },
+  "homepage": "https://github.com/sanadh2/Expense-backend#readme"
+}
